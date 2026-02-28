@@ -8,7 +8,7 @@ Small example REST API built with Flask and SQLAlchemy to manage employees.
 Requirements
 ------------
 
-- Python 3.10+
+- Python 3.12.3
 - PostgreSQL (or use any DB supported by SQLAlchemy)
 - Recommended Python packages (see `requirements.txt`):
   - Flask
